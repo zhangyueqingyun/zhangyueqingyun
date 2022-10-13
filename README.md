@@ -1,4 +1,4 @@
-#### Hi，我是张玥卿云，我的 GitHub 中有超多有趣的项目呢！~ 😄
+#### Hi，我是张玥卿云，我的 GitHub 中有超多有趣的项目呢！ 😄
 
 - 🍉 [低代码平台](https://zhangyueqingyun.tech/low-code/component)
 - 🍊 [React 组件库](https://zhangyueqingyun.tech/react-components)
@@ -6,7 +6,7 @@
 - 🍒 [算法测试框架](https://github.com/zhangyueqingyun/algorithm)
 - 🍓 [前端原创资源](https://github.com/zhangyueqingyun/blog-resources)
 
-#### 欢迎小伙伴们找天我一起玩耍~ 嘻嘻~ 
+#### 欢迎小伙伴们和我一起学习讨论~ 
 <!--
 **zhangyueqingyun/zhangyueqingyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
