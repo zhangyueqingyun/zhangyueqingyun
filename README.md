@@ -1,4 +1,4 @@
-#### Hi，我是张玥卿云，我的 GitHub 中有超多有趣的项目呢！ 😄
+#### Hi，我是张玥卿云，这里有超多有趣的项目呢！ 😄
 
 - 🍉 [低代码平台](https://zhangyueqingyun.tech/low-code/component)
 - 🍊 [React 组件库](https://zhangyueqingyun.tech/react-components)
