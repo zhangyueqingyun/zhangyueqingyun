@@ -25,9 +25,9 @@ Hi，我是张玥卿云，这里有超多有趣的项目呢！欢迎小伙伴们
 
 😈 如感兴趣，可联系本人：张大可爱宝宝 
 
-- tel: 16602927079 
-- email: zhangyueqingyun@foxmail.com
-- wechat: abcde-ovo-yz
+- 电话: 16602927079 
+- 邮箱: zhangyueqingyun@foxmail.com
+- 微信: abcde-ovo-yz
 
 🐼 其他
 ---
