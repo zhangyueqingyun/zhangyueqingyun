@@ -35,6 +35,7 @@ Hi，我是张玥卿云，这里有超多有趣的项目呢！欢迎小伙伴们
 - 🍋 [个人博客](https://zhangyueqingyun.tech)
 - 🍒 [算法测试框架](https://github.com/zhangyueqingyun/algorithm)
 - 🍓 [前端原创资源](https://github.com/zhangyueqingyun/blog-resources)
+- 🍑 [掘金](https://juejin.cn/user/3039485568487614)
 
 <!--
 **zhangyueqingyun/zhangyueqingyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
